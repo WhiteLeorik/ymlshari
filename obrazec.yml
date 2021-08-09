@@ -27,7 +27,6 @@
     <width>20</width> <!-- ширина товара -->
     <height>20</height> <!--  высота товара -->
     <weight>1</weight> <!-- вес товара -->
-    <barcode></barcode> <!--  штрихкод товара -->
 </offer>
 <offer>
     <offer_id>2</offer_id>  <!--  артикул товара -->
