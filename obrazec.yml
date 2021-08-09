@@ -6,8 +6,8 @@
       <category id="1">Мелкая бытовая техника</category>
     </categories>
     <offers>
-<offer>
-    <offer_id>1</offer_id>  <!--  артикул товара -->
+<offer id="1">
+   <!--  <offer_id>1</offer_id>   артикул товара -->
     <name>Блендер VAIL VL-5732 коричневый</name>  <!--  наименование товара -->
     <picture>https://raw.githubusercontent.com/WhiteLeorik/ymlshari/main/Блендер%20VAIL%20VL-5732%20коричневый.png</picture>  <!--  До шести ссылок на изображения товара. Каждая ссылка должна быть в отдельном элементе.  от  800 x 800 px до 1000 x 1000 1:1-->
     <description> <!--  описание товара -->
@@ -27,6 +27,7 @@
     <width>20</width> <!-- ширина товара -->
     <height>20</height> <!--  высота товара -->
     <weight>1</weight> <!-- вес товара -->
+    <barcode></barcode> <!--  штрихкод товара -->
 </offer>
 <offer>
     <offer_id>2</offer_id>  <!--  артикул товара -->
