@@ -4,7 +4,7 @@
 <categories>
       <!-- Категории -->
       <category id="1">Мелкая бытовая техника</category>
-    </categories>
+ </categories>
 
 <offers>
 <offer id="1">
@@ -29,7 +29,6 @@
     <weight>1</weight> <!-- вес товара -->
     <barcode></barcode> <!--  штрихкод товара -->
 </offer>
-
 </offers>
 </shop>
 </yml_catalog>
