@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog>
+<shop>
+<categories>
+      <!-- Категории -->
+      <category id="1">Мелкая бытовая техника</category>
+      <category id="2">Крупная бытовая техника</category>
+ </categories>
+
+<offers>
+<offer id="1">
+    <categoryId>1</categoryId>
+    <name>Блендер VAIL VL-5732 коричневый</name>  <!--  наименование товара -->
+    <picture>https://raw.githubusercontent.com/WhiteLeorik/ymlshari/main/%D0%91%D0%BB%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%20VAIL%20VL-5732%20%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%8B%D0%B9.jpeg</picture>  <!--  До шести ссылок на изображения товара. Каждая ссылка должна быть в отдельном элементе.  от  800 x 800 px до 1000 x 1000 1:1-->
+    <description> <!--  описание товара -->
+         <![CDATA[
+        <h3>Технические характеристики</h3>
+        <p>Тип: погружной</p>
+        <p>Управление механическое, число скоростей: 2</p>
+        <p>Цвет: Коричневый</p>
+        <p>Максимальная мощность: 600 Вт</p>
+        <p>Материал корпуса: пластик</p>
+        <p>Материал погружной части: металл</p>
+        ]]>
+    </description>
+    <price>1 590</price> <!--  цена товара -->
+    <quantity>1</quantity> <!--  остаток товара -->
+    <length>20</length> <!--  длина товара -->
+    <width>20</width> <!-- ширина товара -->
+    <height>20</height> <!--  высота товара -->
+    <weight>1</weight> <!-- вес товара -->
+</offer>
+<offer id="2">
+    <categoryId>2</categoryId>
+    <name>Блендер VAIL VL-5732 коричневый</name>  <!--  наименование товара -->
+    <picture>https://raw.githubusercontent.com/WhiteLeorik/ymlshari/main/%D0%91%D0%BB%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%20VAIL%20VL-5732%20%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%8B%D0%B9.jpeg</picture>  <!--  До шести ссылок на изображения товара. Каждая ссылка должна быть в отдельном элементе.  от  800 x 800 px до 1000 x 1000 1:1-->
+    <description> <!--  описание товара -->
+         <![CDATA[
+        <h3>Технические характеристики</h3>
+        <p>Тип: погружной</p>
+        <p>Управление механическое, число скоростей: 2</p>
+        <p>Цвет: Коричневый</p>
+        <p>Максимальная мощность: 600 Вт</p>
+        <p>Материал корпуса: пластик</p>
+        <p>Материал погружной части: металл</p>
+        ]]>
+    </description>
+    <price>1590</price> <!--  цена товара -->
+    <quantity>1</quantity> <!--  остаток товара -->
+    <length>20</length> <!--  длина товара -->
+    <width>20</width> <!-- ширина товара -->
+    <height>20</height> <!--  высота товара -->
+    <weight>1</weight> <!-- вес товара -->
+</offer>
+</offers>
+</shop>
+</yml_catalog>
