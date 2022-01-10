@@ -2,12 +2,12 @@
 <yml_catalog>
 	<shop>
 		<categories>
-			<category id="000001">&lt;Без категории&gt;</category>
-			<category id="000002">Основная номенклатурная группа</category>
-			<category id="000003">Автотовары</category>
+			<category id="1">&lt;Без категории&gt;</category>
+			<category id="2">Основная номенклатурная группа</category>
+			<category id="3">Автотовары</category>
 		</categories>
 		<offers>
-			<offer id="00118229">
+			<offer id="118229">
 				<name>Набор автопредохранителей 80-7024</name>
 				<picture>https://raw.githubusercontent.com/WhiteLeorik/ymlshari/main/BlenderTest.jpeg</picture>
 				<description>
@@ -20,7 +20,7 @@
 				<height>20</height>
 				<weight>0.2</weight>
 			</offer>
-			<offer id="00119725">
+			<offer id="119725">
 				<name>Щетка-сметка для снега Sparta 530 мм бирюзовая</name>
 				<picture>https://raw.githubusercontent.com/WhiteLeorik/ymlshari/main/BlenderTest.jpeg</picture>
 				<description>
@@ -33,13 +33,13 @@
 				<height>20</height>
 				<weight>0.2</weight>
 			</offer>
-			<offer id="00119726">
+			<offer id="119726">
 				<name>Щетка-сметка для снега Sparta 530 мм фиолетовая</name>
 				<picture>https://raw.githubusercontent.com/WhiteLeorik/ymlshari/main/BlenderTest.jpeg</picture>
 				<description>
 					<![CDATA[<h3>Технические характеристики</h3><p></p>]]></description>
 				<price>150</price>
-				<categoryId>000002</categoryId>
+				<categoryId>2</categoryId>
 				<quantity>2</quantity>
 				<length>20</length>
 				<width>20</width>
