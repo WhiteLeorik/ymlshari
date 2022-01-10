@@ -13,7 +13,7 @@
 				<description>
 					<![CDATA[<h3>Технические характеристики</h3><p>китай</p><p>пластик</p><p>набор</p>]]></description>
 				<price>590</price>
-				<categoryId>3</categoryId>
+				<categoryId>000003</categoryId>
 				<quantity>2</quantity>
 				<length>20</length>
 				<width>20</width>
@@ -26,7 +26,7 @@
 				<description>
 					<![CDATA[<h3>Технические характеристики</h3><p></p>]]></description>
 				<price>150</price>
-				<categoryId>2</categoryId>
+				<categoryId>000002</categoryId>
 				<quantity>2</quantity>
 				<length>20</length>
 				<width>20</width>
@@ -39,7 +39,7 @@
 				<description>
 					<![CDATA[<h3>Технические характеристики</h3><p></p>]]></description>
 				<price>150</price>
-				<categoryId>2</categoryId>
+				<categoryId>000002</categoryId>
 				<quantity>2</quantity>
 				<length>20</length>
 				<width>20</width>
