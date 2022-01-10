@@ -3,8 +3,8 @@
 	<shop>
 		<categories>
 			<category id="000001">&lt;Без категории&gt;</category>
-			<category id="000001">Основная номенклатурная группа</category>
-			<category id="000001">Автотовары</category>
+			<category id="000002">Основная номенклатурная группа</category>
+			<category id="000003">Автотовары</category>
 		</categories>
 		<offers>
 			<offer id="00118229">
@@ -13,6 +13,7 @@
 				<description>
 					<![CDATA[<h3>Технические характеристики</h3><p>китай</p><p>пластик</p><p>набор</p>]]></description>
 				<price>590</price>
+				<categoryId>3</categoryId>
 				<quantity>2</quantity>
 				<length>20</length>
 				<width>20</width>
@@ -25,6 +26,7 @@
 				<description>
 					<![CDATA[<h3>Технические характеристики</h3><p></p>]]></description>
 				<price>150</price>
+				<categoryId>2</categoryId>
 				<quantity>2</quantity>
 				<length>20</length>
 				<width>20</width>
@@ -37,6 +39,7 @@
 				<description>
 					<![CDATA[<h3>Технические характеристики</h3><p></p>]]></description>
 				<price>150</price>
+				<categoryId>2</categoryId>
 				<quantity>2</quantity>
 				<length>20</length>
 				<width>20</width>
